@@ -5,7 +5,7 @@ Gdb Adapter is the goframe orm adapter for Casbin.
 
 ## Installation
 
-    go get github.com/jxo-me/gdb-adapter
+    go get github.com/168yy/gdb-adapter
 
 ## Simple Example
 
@@ -17,7 +17,7 @@ import (
 	"github.com/casbin/casbin/v2"
 	_ "github.com/gogf/gf/contrib/drivers/mysql/v2"
 	"github.com/gogf/gf/v2/database/gdb"
-	gdbadapter "github.com/jxo-me/gdb-adapter"
+	gdbadapter "github.com/168yy/gdb-adapter"
 )
 
 func main() {
